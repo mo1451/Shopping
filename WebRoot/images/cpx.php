@@ -1,0 +1,1 @@
+DD_AD.cpx_ad['36080001']={"data":[[{"pos_info":{"type":3,"show_type":1,"pos_img":"20140103151505648.jpg","pos_img_big":"20140103151512860.jpg","pos_url":"","pos_url_big":"","pos_desc":{"is_fill":0,"adv_set":0,"refrh_frame":1,"shuffle":1,"per_num":""},"wdith":960,"wdith_big":1200,"height":300,"height_big":300}}]]}
